@@ -1,6 +1,4 @@
-# GPR - Basic Gaussian Process Library
-
-Basic Gaussian process regression library. (Eigen3 required)
+# GPR
 
 ## Features
 * Multivariate Gaussian process regression
